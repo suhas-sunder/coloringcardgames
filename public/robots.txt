@@ -17,4 +17,4 @@ Allow: /
 User-agent: Storebot-Google
 Allow: /
 
-Sitemap: https://coloringcardgames.com/sitemap.xml
+Sitemap: https://www.coloringcardgames.com/sitemap.xml
